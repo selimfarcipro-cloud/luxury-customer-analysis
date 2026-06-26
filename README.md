@@ -6,8 +6,6 @@ This project analyzes customer purchasing behavior for a luxury retail company u
 
 ![Visualization1](images/dashboard.png)
 
-## RFM Customer Segmentation
-
 ![Visualization2](images/rfm_segmentation.png)
 
 ### Skills Used
