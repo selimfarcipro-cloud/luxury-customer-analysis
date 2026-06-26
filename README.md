@@ -1,62 +1,22 @@
-# 🛍️ Customer Behavior Analysis — Luxury Sector
+# Customer Behavior Analysis — Luxury Retail
 
-## 📌 Objective
+This project analyzes customer purchasing behavior for a luxury retail company using the **Online Retail II** dataset. The analysis focuses on customer segmentation through **RFM analysis**, revenue trends, and top-performing products. The project includes data cleaning, feature engineering, exploratory data analysis, and an interactive Power BI dashboard to provide actionable business insights.
 
-Identify the best customers, top products and revenue trends for a luxury retail company using RFM segmentation.
+## Behavior Visualization
 
----
+![Visualization1](images/dashboard.png)
 
-## 📊 Dashboard Overview
+## RFM Customer Segmentation
 
-![Power BI Dashboard](images/dashboard_overview.png)
+![Visualization2](images/rfm_segmentation.png)
 
----
+### Skills Used
 
-## 🛠️ Tools
-
-- Python (pandas, matplotlib, seaborn)
-- Power BI
-
-**Dataset:** Online Retail II — UCI Machine Learning Repository
-
----
-
-## 📈 Key Insights
-
-- 💰 **£17.7M** total revenue across **5,878** unique customers.
-- 🏆 **Champions** (31% of customers) generate **76% of total revenue**.
-- 📦 **Top product:** *Regency Cakestand 3 Tier* — **£286K** revenue.
-- 📈 Strong revenue growth from **2009 to 2011**.
-
----
-
-## 📊 Revenue Trend
-
-![Monthly Revenue](images/monthly_revenue.png)
-
----
-
-## 👥 Customer Segmentation (RFM)
-
-![RFM Segmentation](images/rfm_segments.png)
-
----
-
-## 🛒 Top Products
-
-![Top Products](images/top_products.png)
-
----
-
-## 🌍 Customer Distribution *(optional)*
-
-![Countries](images/customer_countries.png)
-
----
-
-## 📁 Files
-
-- 📓 `analyse_luxe.ipynb` — Full analysis notebook
-- 📄 `rfm_segments.csv` — RFM segmentation results
-- 📄 `top_produits.csv` — Top 10 products by revenue
-- 📄 `ca_mensuel.csv` — Monthly revenue dataset
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Feature Engineering
+* RFM Segmentation
+* Customer Analytics
+* Data Visualization
+* Power BI Dashboard
+* Python (Pandas, NumPy, Matplotlib, Seaborn)
