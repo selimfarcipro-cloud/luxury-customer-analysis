@@ -47,7 +47,7 @@ This approach identifies different customer profiles:
 
 ---
 
-# Revenue Analysis
+# Champions Segmentation — RFM Analysis
 
 The project analyzes revenue trends and product performance to identify:
 
