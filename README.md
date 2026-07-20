@@ -23,7 +23,7 @@ The final dashboard helps answer key business questions:
 
 The final Power BI dashboard provides an interactive overview of customer behavior, revenue performance, and product analysis.
 
-![Customer Behavior Dashboard](images/dashboard_overview.png)
+![Customer Behavior Dashboard](images/Dashboard_overview.png)
 
 ---
 
