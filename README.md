@@ -55,7 +55,7 @@ The project analyzes revenue trends and product performance to identify:
 * Best-performing products
 * Customer contribution to sales
 
-![Revenue Analysis](images/champions_segments.png)
+![Revenue Analysis](images/champion_segments.png)
 
 ---
 
